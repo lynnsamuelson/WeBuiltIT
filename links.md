@@ -19,4 +19,20 @@ Women didn't just contribute to the early computing in meaningful ways, WE built
 
  ![](./images/Slide13.png)
 
+## Entreprenuers
 
+Women also had a hand in the early tech industry.  Check out the [Entreprenuers](./References/Entreprenuers.md) page for more details.
+
+ ![](./images/Slide30.png)
+
+ ## Data
+
+ Women also founded Data Science and have made many significant contributions.  More details on the [Data](./References/Data.md) page.
+
+ ![](./images/Slide35.png)
+
+## UI/UX
+
+Women initialized the modern UIs that we know today.  Find out more on the [UI/UX](./References/UiUx.md) page.
+
+ ![](./images/Slide40.png)
